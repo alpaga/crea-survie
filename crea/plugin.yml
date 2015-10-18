@@ -1,0 +1,7 @@
+name: crea
+version: 0.0.1
+main: fr.ozedev.crea.Crea
+commands:
+  crea:
+    description: Pour gérer le crea
+    usage: §4/crea [Paramètre] [Paramètre]

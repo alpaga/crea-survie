@@ -1,0 +1,7 @@
+name: crea
+version: 0.0.1
+main: fr.ozedev.survie.Survie
+commands:
+  survie:
+    description: Pour gérer le survie
+    usage: §4/survie [Paramètre] [Paramètre]
